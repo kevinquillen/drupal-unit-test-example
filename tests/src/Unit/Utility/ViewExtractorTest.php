@@ -6,7 +6,7 @@ use Drupal\mymodule\Utility\ViewExtractor;
 use Drupal\Tests\UnitTestCase;
 
 /**
- * Unit test for FacetSourceMachineNameHandler class.
+ * Unit test for ViewExtractorTest class.
  *
  * @group mymodule
  */
