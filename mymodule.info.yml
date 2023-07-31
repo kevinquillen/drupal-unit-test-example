@@ -1,0 +1,4 @@
+name: My Module
+type: module
+description: Example module with a plain service and unit test.
+core_version_requirement: ^10
